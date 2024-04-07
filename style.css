@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("gambar/background.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar {
+    background-color: #703607;
+    overflow: hidden;
+}
+.navbar a {
+    float: right;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 25px;
+    padding-top: 23px;
+    padding-bottom: 25px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    color: black;
+    background-color: #ffffff3c;
+}
+.navbar-judul {
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 14px 20px;
+    color: #fff;
+}
+.main-judul {
+    text-shadow: 4px 6px black;
+    margin-right: 10%;
+    color: #fff;
+    font-weight: bold;
+    font-size: 90px;
+    text-align: right;
+    margin-top: 18%;
+}
+.main-judul .main-judul2 {
+    color: #fff;
+    font-size: 65px;
+}
+    
