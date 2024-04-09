@@ -170,3 +170,16 @@ a {
     margin-right: 10%;
     color: #fff;
 }
+
+@media only screen and (max-width: 768px) {
+    .navbar a {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    
+    .navbar-judul {
+        float: none;
+        text-align: center;
+    }
+}
